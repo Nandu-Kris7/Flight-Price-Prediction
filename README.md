@@ -11,7 +11,7 @@ Python (Pandas, NumPy, Scikit-learn, Matplotlib)
 Machine Learning algorithms (Random Forest)
 I used Visual Studio Code for this project
 
-Reference
+Reference: 
 I have reviewed the documentation on IBM to acquire a fundamental understanding of machine learning and have also utilized their YouTube videos to gain a deeper comprehension of.
 I completed this project with the assistance of a YouTube video from the channel NEURALNINE, and I will provide the link below.
 https://youtu.be/EMoLTicNR6w?si=P1gCWUXHnWDJscAs
